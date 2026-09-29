@@ -1,0 +1,13 @@
+LICENSE
+README.md
+setup.py
+GoodbyeSQL.egg-info/PKG-INFO
+GoodbyeSQL.egg-info/SOURCES.txt
+GoodbyeSQL.egg-info/dependency_links.txt
+GoodbyeSQL.egg-info/entry_points.txt
+GoodbyeSQL.egg-info/requires.txt
+GoodbyeSQL.egg-info/top_level.txt
+goodbyesql/__init__.py
+goodbyesql/config.py
+goodbyesql/main.py
+goodbyesql/registry.py
